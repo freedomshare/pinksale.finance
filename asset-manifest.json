@@ -20,7 +20,7 @@
     "create-token.js": "/static/js/create-token.590d075b.chunk.js",
     "detail-pinklock.js": "/static/js/detail-pinklock.551a7534.chunk.js",
     "detail-pinklock-record.css": "/static/css/detail-pinklock-record.d9c8f948.chunk.css",
-    "detail-pinklock-record.js": "/static/js/detail-pinklock-record.4cd4eabc.chunk.js",
+    "detail-pinklock-record.js": "/static/js/detail-pinklock-record.3d061ec2.chunk.js",
     "edit-pinklock.css": "/static/css/edit-pinklock.12ef0585.chunk.css",
     "edit-pinklock.js": "/static/js/edit-pinklock.5261dc2c.chunk.js",
     "edit-pool.js": "/static/js/edit-pool.fc1d5839.chunk.js",
@@ -38,7 +38,7 @@
     "pool-detail.js": "/static/js/pool-detail.dc933736.chunk.js",
     "pool-locker.css": "/static/css/pool-locker.4d4c2097.chunk.css",
     "pool-locker.js": "/static/js/pool-locker.dca92bbb.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.d71a2eee.js",
+    "runtime-main.js": "/static/js/runtime-main.0115c12e.js",
     "static/js/25.d6c49331.chunk.js": "/static/js/25.d6c49331.chunk.js",
     "static/js/26.2e0d7ba2.chunk.js": "/static/js/26.2e0d7ba2.chunk.js",
     "static/js/27.375388aa.chunk.js": "/static/js/27.375388aa.chunk.js",
@@ -65,7 +65,7 @@
     "static/media/walletconnect.dfa25e47.svg": "/static/media/walletconnect.dfa25e47.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d71a2eee.js",
+    "static/js/runtime-main.0115c12e.js",
     "static/js/25.d6c49331.chunk.js",
     "static/css/main.008403f2.chunk.css",
     "static/js/main.f4b0db29.chunk.js"
