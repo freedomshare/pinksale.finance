@@ -28,7 +28,7 @@
     "list-pool.css": "/static/css/list-pool.d645ab39.chunk.css",
     "list-pool.js": "/static/js/list-pool.99b5d1af.chunk.js",
     "main.css": "/static/css/main.008403f2.chunk.css",
-    "main.js": "/static/js/main.cd92570c.chunk.js",
+    "main.js": "/static/js/main.87de182f.chunk.js",
     "manager-buyback-baby-token.js": "/static/js/manager-buyback-baby-token.cc83a3ea.chunk.js",
     "pinklock-liquidity.css": "/static/css/pinklock-liquidity.df0af696.chunk.css",
     "pinklock-liquidity.js": "/static/js/pinklock-liquidity.a40ae5c7.chunk.js",
@@ -68,6 +68,6 @@
     "static/js/runtime-main.93db72cf.js",
     "static/js/25.6dd7d4a5.chunk.js",
     "static/css/main.008403f2.chunk.css",
-    "static/js/main.cd92570c.chunk.js"
+    "static/js/main.87de182f.chunk.js"
   ]
 }
