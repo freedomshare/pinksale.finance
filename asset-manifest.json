@@ -15,11 +15,11 @@
     "claim-reward.css": "/static/css/claim-reward.f83bdc11.chunk.css",
     "claim-reward.js": "/static/js/claim-reward.e2644ce3.chunk.js",
     "create-fairlaunch-pool.css": "/static/css/create-fairlaunch-pool.12ef0585.chunk.css",
-    "create-fairlaunch-pool.js": "/static/js/create-fairlaunch-pool.071eae13.chunk.js",
+    "create-fairlaunch-pool.js": "/static/js/create-fairlaunch-pool.5eb2b632.chunk.js",
     "create-pinklock.css": "/static/css/create-pinklock.12ef0585.chunk.css",
     "create-pinklock.js": "/static/js/create-pinklock.f168ecf7.chunk.js",
     "create-pool.css": "/static/css/create-pool.12ef0585.chunk.css",
-    "create-pool.js": "/static/js/create-pool.ae04bd87.chunk.js",
+    "create-pool.js": "/static/js/create-pool.cbe554f0.chunk.js",
     "create-token.js": "/static/js/create-token.a728ae1c.chunk.js",
     "detail-airdrop.css": "/static/css/detail-airdrop.17566bd0.chunk.css",
     "detail-airdrop.js": "/static/js/detail-airdrop.6e93fafc.chunk.js",
@@ -46,7 +46,7 @@
     "pool-detail.js": "/static/js/pool-detail.e7455724.chunk.js",
     "pool-locker.css": "/static/css/pool-locker.4d4c2097.chunk.css",
     "pool-locker.js": "/static/js/pool-locker.5fbf6dfe.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.85362063.js",
+    "runtime-main.js": "/static/js/runtime-main.722ae7a2.js",
     "static/js/30.beeb6cc0.chunk.js": "/static/js/30.beeb6cc0.chunk.js",
     "static/js/31.a921c949.chunk.js": "/static/js/31.a921c949.chunk.js",
     "static/js/32.9e102e11.chunk.js": "/static/js/32.9e102e11.chunk.js",
@@ -74,7 +74,7 @@
     "static/media/walletconnect.dfa25e47.svg": "/static/media/walletconnect.dfa25e47.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.85362063.js",
+    "static/js/runtime-main.722ae7a2.js",
     "static/js/30.beeb6cc0.chunk.js",
     "static/css/main.5d9f0d7a.chunk.css",
     "static/js/main.53f10faa.chunk.js"
